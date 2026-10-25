@@ -24,8 +24,11 @@ HTML et CSS, sans framework.
 
 ## Publication
 
-Le site est publié avec GitHub Pages (Settings > Pages > Deploy from a branch, branche `main`, dossier racine).
-Chaque `push` sur la branche `main` met automatiquement le site à jour.
+Le site est hébergé avec GitHub Pages depuis le repo https://github.com/najetzridette/portfolio
+(Settings > Pages > Deploy from a branch, branche `main`, dossier racine).
+
+Le dépôt local est relié à deux repos : ce repo personnel et le repo de rendu Epitech.
+Un seul `git push` envoie le code aux deux, et GitHub Pages met automatiquement le site à jour.
 
 ## Ressources
 
